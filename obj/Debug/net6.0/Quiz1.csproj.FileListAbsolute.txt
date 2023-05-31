@@ -1,0 +1,30 @@
+C:\Repos\Quiz\Quiz1\bin\Debug\net6.0\Quiz1.exe
+C:\Repos\Quiz\Quiz1\bin\Debug\net6.0\Quiz1.deps.json
+C:\Repos\Quiz\Quiz1\bin\Debug\net6.0\Quiz1.runtimeconfig.json
+C:\Repos\Quiz\Quiz1\bin\Debug\net6.0\Quiz1.dll
+C:\Repos\Quiz\Quiz1\bin\Debug\net6.0\Quiz1.pdb
+C:\Repos\Quiz\Quiz1\obj\Debug\net6.0\Quiz1.csproj.AssemblyReference.cache
+C:\Repos\Quiz\Quiz1\obj\Debug\net6.0\Quiz1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repos\Quiz\Quiz1\obj\Debug\net6.0\Quiz1.AssemblyInfoInputs.cache
+C:\Repos\Quiz\Quiz1\obj\Debug\net6.0\Quiz1.AssemblyInfo.cs
+C:\Repos\Quiz\Quiz1\obj\Debug\net6.0\Quiz1.csproj.CoreCompileInputs.cache
+C:\Repos\Quiz\Quiz1\obj\Debug\net6.0\Quiz1.dll
+C:\Repos\Quiz\Quiz1\obj\Debug\net6.0\refint\Quiz1.dll
+C:\Repos\Quiz\Quiz1\obj\Debug\net6.0\Quiz1.pdb
+C:\Repos\Quiz\Quiz1\obj\Debug\net6.0\Quiz1.genruntimeconfig.cache
+C:\Repos\Quiz\Quiz1\obj\Debug\net6.0\ref\Quiz1.dll
+C:\Users\mustafa bal\Desktop\Quiz1\bin\Debug\net6.0\Quiz1.exe
+C:\Users\mustafa bal\Desktop\Quiz1\bin\Debug\net6.0\Quiz1.deps.json
+C:\Users\mustafa bal\Desktop\Quiz1\bin\Debug\net6.0\Quiz1.runtimeconfig.json
+C:\Users\mustafa bal\Desktop\Quiz1\bin\Debug\net6.0\Quiz1.dll
+C:\Users\mustafa bal\Desktop\Quiz1\bin\Debug\net6.0\Quiz1.pdb
+C:\Users\mustafa bal\Desktop\Quiz1\obj\Debug\net6.0\Quiz1.csproj.AssemblyReference.cache
+C:\Users\mustafa bal\Desktop\Quiz1\obj\Debug\net6.0\Quiz1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mustafa bal\Desktop\Quiz1\obj\Debug\net6.0\Quiz1.AssemblyInfoInputs.cache
+C:\Users\mustafa bal\Desktop\Quiz1\obj\Debug\net6.0\Quiz1.AssemblyInfo.cs
+C:\Users\mustafa bal\Desktop\Quiz1\obj\Debug\net6.0\Quiz1.csproj.CoreCompileInputs.cache
+C:\Users\mustafa bal\Desktop\Quiz1\obj\Debug\net6.0\Quiz1.dll
+C:\Users\mustafa bal\Desktop\Quiz1\obj\Debug\net6.0\refint\Quiz1.dll
+C:\Users\mustafa bal\Desktop\Quiz1\obj\Debug\net6.0\Quiz1.pdb
+C:\Users\mustafa bal\Desktop\Quiz1\obj\Debug\net6.0\Quiz1.genruntimeconfig.cache
+C:\Users\mustafa bal\Desktop\Quiz1\obj\Debug\net6.0\ref\Quiz1.dll
